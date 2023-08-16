@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name 0_Fred's_Local_Library)(type Legacy)(uri S:/GitHub/MH6502-4/0_Fred's_Local_Library/0_Fred's_Local_Library.lib)(options "")(descr ""))
+  (lib (name Revision-4-rescue)(type Legacy)(uri "${KIPRJMOD}/Revision 4-rescue.lib")(options "")(descr ""))
+)
